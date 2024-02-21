@@ -1,0 +1,8 @@
+Dylan Bawa
+First I opened a terminal in home directory then used pwd to confirm the path of the home directory then used ls -a to list files and and directories in home directory, I then created a Vim file and added configurations then used cat .vimrc to to display the content. I then renamed it and added name and summary to the top.
+syntax on
+set ruler
+set autoindent
+set number
+set ignore+case
+color elflord
